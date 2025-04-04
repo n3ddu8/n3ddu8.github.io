@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Welcome to the Nerd Cache — where the chaos gets context. This is where I dive into specific topics, projects, and ideas with a bit more structure and storytelling. Unlike the Brain Dump, which is more “note-to-self,” the blog is where I take a step back, zoom out, and write things up properly (well… mostly). Expect deep dives, how-tos, opinionated takes, and probably a few rants about why something should work but doesn’t.
 ---
