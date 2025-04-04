@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Knowledge Base
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Welcome to the Brain Dump, my ever-growing collection of technical notes, weird fixes, aha moments, and “why didn’t I write this down last time?” kind of stuff. It’s part cheat sheet, part lab notebook, and part proof that I’ve tried (and broken) a lot of things so you don’t have to. 
 ---
