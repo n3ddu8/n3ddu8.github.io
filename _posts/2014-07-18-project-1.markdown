@@ -7,7 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: https://www.data-savvy-solutions.com/
 category: Data Enguneering
-description: My Freelance/Contracting business, Data Savvy Solutions, where you don’t just get a contractor, you get a fellow data nerd who actually enjoys solving gnarly pipeline problems and untangling messy infrastructure. I help businesses make sense of their data, build rock-solid systems, and get things flowing smoothly—without the jargon overload or stiff consultancy vibes.
-
-Whether you’re dealing with a mountain of CSVs, a cloud migration that’s gone sideways, or just want someone who actually answers your Slack messages, I’ve got you covered. I bring deep Data Engineering chops, a love for clean architecture, and just the right amount of curiosity-fueled chaos to make things work better, faster, and smarter.
+description: My Freelance/Contracting business, Data Savvy Solutions, where you don’t just get a contractor, you get a fellow data nerd who actually enjoys solving gnarly pipeline problems and untangling messy infrastructure. I help businesses make sense of their data, build rock-solid systems, and get things flowing smoothly—without the jargon overload or stiff consultancy vibes. Whether you’re dealing with a mountain of CSVs, a cloud migration that’s gone sideways, or just want someone who actually answers your Slack messages, I’ve got you covered. I bring deep Data Engineering chops, a love for clean architecture, and just the right amount of curiosity-fueled chaos to make things work better, faster, and smarter.
 ---
